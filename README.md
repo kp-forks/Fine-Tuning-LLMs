@@ -1,6 +1,6 @@
 # Fine Tuning LLM Models
 
-Introductory Guide where we will talk about Different Techniques of Fine Tuning LLM Models. Fine-tuning Large Language Models (LLMs) involves adapting a pre-trained language model to a specific task or domain by training it on a smaller, task-specific dataset. The main goal of fine-tuning is to leverage the general linguistic knowledge acquired by the model during its initial large-scale pre-training phase and refine it to perform better on a specific task or within a particular context.
+Introductory Guide where we will talk about Different Techniques of Fine Tuning LLMs. Fine-tuning Large Language Models (LLMs) involves adapting a pre-trained language model to a specific task or domain by training it on a smaller, task-specific dataset. The main goal of fine-tuning is to leverage the general linguistic knowledge acquired by the model during its initial large-scale pre-training phase and refine it to perform better on a specific task or within a particular context.
 
 <hr>
 
